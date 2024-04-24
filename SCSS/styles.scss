@@ -1,0 +1,24 @@
+$web-bg-color: #d5e1ef;
+$card-bg-color:#ffffff;
+$text-title-color: #222e44;
+$text-secondary-color:#c5c6d0;
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
